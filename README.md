@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">💻 Olá! Seja bem-vindo ao meu GitHub! 🚀<br><br>Me chamo Wesley Barbosa e estou dando meus primeiros passos nessa nova área. Atualmente, estou cursando Técnico em Desenvolvimento de sistemas na ETECJK, e aqui você encontrará alguns dos meus projetos feitos em aula, e por mim.<br><br>Sempre aberto a sugestões, dicas e colaborações! 😃</p>
+<p align="left">💻 Hello! Welcome to my GitHub! 🚀
+
+My name is Wesley Barbosa and I'm taking my first steps in this new area. I'm currently studying Systems Development Technician at ETECJK, and here you can find some of my projects done in class, and by me.
+
+Always open to suggestions, tips and collaborations! 😃</p>
 
 ###
 
